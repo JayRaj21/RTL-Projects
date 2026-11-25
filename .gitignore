@@ -2,4 +2,6 @@
 *.vcd
 *.vvp
 sim
+sim[0-9]*
+sum
 *.out
